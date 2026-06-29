@@ -1,44 +1,44 @@
-<a href="https://github.com/luiscorreiaa4" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.instagram.com/luiscorreiaa_" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-<a href="https://linkedin.com/in/luis-correia-de-araujo/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-
-<br />
-<br />
-
-Olá, me chamo **Luís Correia**, sou de Maceió, Alagoas, e atualmente Sou **Desenvolvedor Full Stack**.
-<br />
-
-**Meus interesses pessoais:**
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
-
-- 👨🏽‍💻 Estou estudando **Orientação a objetos** para conseguir escrever códigos melhores e mais reutilizáveis;
-- 🤔 Meus hobbies são atividades físicas, esportes e jogos online;
-- 💼 Estou sempre perseguindo conhecimento para evoluir na minha carreira de desenvolvedor;
-- 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas;
-- 📫 Por favor, envie um email para **pleluis47@gmail.com** para me encontrar.
-- 📝 Veja meu Curriculum Vitae <a href="" target="_blank">clicando aqui</a> para mais informações.
-
-<br />
-<br />
-
-**Linguagens e ferramentas:**  
-
-<div style="display: inline_block"><br>
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 2px">
-<img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 2px">
-<img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="border-radius: 2px">
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius: 2px">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 2px">
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius: 2px">
+<div align="center">
+  <a href="https://linkedin.com/in/luis-correia-de-araujo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:pleluis47@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="SEU_LINK_DO_CURRICULO_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/-Currículo-black?style=for-the-badge&logo=google-docs&logoColor=white" target="_blank">
+  </a>
 </div>
-<br>
+
+---
+
+### Olá! Eu sou o Luís Correia 👋
+
+**Desenvolvedor Full Stack** localizado em Maceió, AL, com foco na construção de aplicações web escaláveis e de alta performance. Tenho experiência em transformar regras de negócios complexas em soluções tecnológicas eficientes, atuando em toda a stack, desde a concepção de interfaces responsivas até a modelagem de bancos de dados relacionais e construção de APIs.
+
+* 💻 **O que eu faço:** Desenvolvimento de aplicações Full Stack focadas na melhor experiência do usuário e arquitetura robusta.
+* 🚀 **Foco atual:** Aprofundamento em fundamentos de Ciência da Computação (CS50 de Harvard) e aprimoramento em arquitetura de software para aplicações em escala.
+* 🎓 **Background:** Graduando em Sistemas de Informação no CESMAC e formado em Desenvolvimento Web Full Stack. 
+* 🤝 **Como trabalho:** Valorizo a comunicação clara, metodologias ágeis e a resolução ágil de incidentes, habilidades aprimoradas através da minha vivência em suporte técnico.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</div>
+
+<br/>
+
+### 📊 Estatísticas do GitHub
+
 <picture>
   <source
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscorreiaa4&theme=dracula"
@@ -46,5 +46,3 @@ Olá, me chamo **Luís Correia**, sou de Maceió, Alagoas, e atualmente Sou **De
   />
   <img src="https://github-readme-stats.vercel.app/api?username=luiscorreiaa4&&hide=stars&show_icons=true&theme=dracula" />
 </picture>
-
-⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
