@@ -14,14 +14,12 @@
 
 ### Olá! Eu sou o Luís Correia 👋
 
-**Desenvolvedor Full Stack** em Maceió, AL, graduando em **Sistemas de Informação no CESMAC** (previsão dez/2028) e formado em **Desenvolvimento Web pela Trybe** (1.500h).
+**Desenvolvedor Full Stack** em Maceió, AL, em busca de **estágio ou vaga júnior** (presencial, híbrido ou remoto).
 
-Construo aplicações web de ponta a ponta com **TypeScript, React, Node.js, Express e PostgreSQL**: do esquema SQL e das migrações até testes automatizados, CI e deploy. Meu projeto principal, o **CalorieSync**, está em produção e pode ser testado sem cadastro.
+Construo aplicações web de ponta a ponta com **TypeScript, React, Node.js, Express e PostgreSQL**: do esquema SQL e das migrações até testes automatizados, CI e deploy. Meu projeto principal, o **CalorieSync**, está em produção, tem **700+ testes automatizados** e pode ser testado sem cadastro.
 
-* 🎓 **Formação:** Bacharelado em Sistemas de Informação no CESMAC (cursando 4º período) e Desenvolvimento Web Full Stack na Trybe.
-* 🔬 **Estudos complementares:** Fundamentos de Ciência da Computação, estruturas de dados e algoritmos com o *CS50's Introduction to Computer Science* (HarvardX).
-* 🛠️ **Vivência em TI:** 2 anos em Suporte Técnico na VTech/Sistematech Informática, com diagnóstico de causa-raiz, resolução de incidentes e atendimento a usuários.
-* 📍 **Disponibilidade:** Maceió, AL (presencial, híbrido ou remoto), para estágio ou vaga júnior.
+* 🎓 **Formação:** Bacharelado em Sistemas de Informação no CESMAC (cursando 4º período, previsão dez/2028) e Desenvolvimento Web Full Stack na Trybe (1.500h).
+* 🛠️ **Vivência em TI:** 2 anos em Suporte Técnico na VTech/Sistematech Informática, atendendo 58 unidades de saúde, com diagnóstico de causa-raiz, resolução de incidentes e atendimento a usuários.
 
 ---
 
@@ -35,16 +33,17 @@ Construo aplicações web de ponta a ponta com **TypeScript, React, Node.js, Exp
 * Calcula TMB, TDEE e metas de macros e registra refeições com a Tabela TACO, com histórico em gráficos (calorias, macros, peso e gordura corporal), PWA, navegação por swipe no mobile e tema claro/escuro.
 * API Express em 4 camadas (`routes → controllers → services → models`) com **SQL parametrizado sem ORM**, transações atômicas, validação Zod compartilhada com o frontend e **19 migrações versionadas** com teste de rollback.
 * **Segurança como requisito:** confirmação de e-mail com códigos em HMAC-SHA256, JWT em cookie com revogação, **MFA por TOTP**, painel admin com **RBAC e trilha de auditoria**, rate limiting, e exportação e exclusão de conta (LGPD).
-* **CI completo:** typecheck, ESLint, Gitleaks, detecção de código morto, testes de backend em PostgreSQL real, testes de frontend com Vitest + Testing Library, **E2E com Playwright**, smoke de carga e build Docker.
+* **700+ testes automatizados** (346 no backend com PostgreSQL real, 356 de componentes e integração no frontend com Vitest + Testing Library, e E2E com Playwright), rodando em um CI com typecheck, ESLint, Gitleaks, detecção de código morto, smoke de carga e build Docker.
 * Deploy em Netlify, Render e Neon. Decisões de arquitetura documentadas como ADRs.
 
-#### 🏆 [TFC — API de Gerenciamento de Campeonatos](https://github.com/luiscorreiaa4/TFC) · *projeto Trybe*
-`Node.js` • `TypeScript` • `Express` • `MySQL` • `JWT`
-* API REST para partidas e classificação de torneios, com rotas autenticadas via JWT e cálculo dinâmico da tabela de pontuação.
+#### 🧾 [Valuation Contabilidade — Site institucional](https://luiscorreiaa4.github.io/valuation-landingpage) · *projeto acadêmico com cliente real*
+`HTML` • `CSS` • `JavaScript`
+* Site de um escritório de contabilidade, desenvolvido sem custo a partir do briefing com o cliente até a publicação no GitHub Pages.
+* Layout mobile-first, tema claro/escuro, botões que abrem o WhatsApp com mensagem pronta e aviso de privacidade (LGPD). [Código](https://github.com/luiscorreiaa4/valuation-landingpage)
 
-#### 💼 [Nexus Consultoria — Plataforma de Gestão de Chamados](https://github.com/luiscorreiaa4/Projeto3oPeriodo) · *projeto acadêmico*
+#### 💼 [Nexus Consultoria](https://github.com/luiscorreiaa4/Projeto3oPeriodo) · *projeto acadêmico*
 `Node.js` • `Express` • `EJS` • `PostgreSQL`
-* Plataforma web com autenticação de usuários, gestão de chamados e serviços e persistência em PostgreSQL.
+* Portal onde empresas cadastram um desafio tecnológico e recebem o diagnóstico de um consultor, com autenticação e perfis separados de cliente e administrador.
 
 ---
 
@@ -83,22 +82,3 @@ Construo aplicações web de ponta a ponta com **TypeScript, React, Node.js, Exp
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <picture>
-    <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscorreiaa4&theme=github_dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img 
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscorreiaa4&theme=github" 
-      alt="GitHub Profile Details" 
-    />
-  </picture>
-</div>
-
-
