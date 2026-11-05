@@ -91,9 +91,14 @@ Construo aplicações web de ponta a ponta com **TypeScript, React, Node.js, Exp
 <div align="center">
   <picture>
     <source
-      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscorreiaa4&theme=dracula"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscorreiaa4&theme=github_dark"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=luiscorreiaa4&hide=stars&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscorreiaa4&theme=github" 
+      alt="GitHub Profile Details" 
+    />
   </picture>
 </div>
+
+
