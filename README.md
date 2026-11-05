@@ -20,7 +20,7 @@ Construo aplicações web de ponta a ponta com **TypeScript, React, Node.js, Exp
 
 * 🎓 **Formação:** Bacharelado em Sistemas de Informação no CESMAC (cursando 4º período) e Desenvolvimento Web Full Stack na Trybe.
 * 🔬 **Estudos complementares:** Fundamentos de Ciência da Computação, estruturas de dados e algoritmos com o *CS50's Introduction to Computer Science* (HarvardX).
-* 🛠️ **Vivência em TI:** Quase 2 anos em Suporte Técnico na VTech/Sistematech Informática, com diagnóstico de causa-raiz, resolução de incidentes e atendimento a usuários.
+* 🛠️ **Vivência em TI:** 2 anos em Suporte Técnico na VTech/Sistematech Informática, com diagnóstico de causa-raiz, resolução de incidentes e atendimento a usuários.
 * 📍 **Disponibilidade:** Maceió, AL (presencial, híbrido ou remoto), para estágio ou vaga júnior.
 
 ---
