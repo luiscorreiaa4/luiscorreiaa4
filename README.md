@@ -8,9 +8,6 @@
   <a href="https://drive.google.com/file/d/1PoFAAekN8icBVJLF7aPp769s-5q-8qhd/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/-Currículo-black?style=for-the-badge&logo=google-docs&logoColor=white" alt="Currículo" />
   </a>
-  <a href="https://caloriesync-luiscorreia.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/-CalorieSync_ao_vivo-c8ff00?style=for-the-badge&logoColor=000" alt="Demo do CalorieSync" />
-  </a>
 </div>
 
 ---
@@ -92,5 +89,11 @@ Construo aplicações web de ponta a ponta com **TypeScript, React, Node.js, Exp
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luiscorreiaa4&hide=stars&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiscorreiaa4&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=luiscorreiaa4&hide=stars&show_icons=true&theme=dracula" alt="GitHub Stats" />
+  </picture>
 </div>
